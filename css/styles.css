@@ -34,4 +34,28 @@ h2 {
   bottom: 10px;
   width: 50%
 }
-
+.disclaimer {
+  font-size: small;
+  font-style: italic;
+  color: rgb(207, 58, 31);
+}
+.brother {
+  font-size: large;
+  font-style: italic;
+  color: rgb(53, 87, 199);
+}
+.mom {
+font-size: large;
+font-style: italic;
+color: green;
+}
+.dad {
+  font-size: large;
+  font-style: italic;
+  color: rgb(156, 59, 212)
+}
+.skyy {
+  font-size: large;
+  font-style: italic;
+  color: skyblue
+}

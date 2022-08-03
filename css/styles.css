@@ -1,3 +1,6 @@
+body {
+  background-color: darkgrey;
+}
 h1 {
   color: blue;
 }
@@ -19,5 +22,16 @@ ul {
 h2 {
   font-style: italic;
   text-align: center;
+}
+.column {
+  float: right;
+}
+.column2 {
+  float: left;
+}
+.ending {
+  position: sticky;
+  bottom: 10px;
+  width: 50%
 }
 

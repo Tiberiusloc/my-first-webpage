@@ -2,7 +2,7 @@ body {
   background-color: darkgrey;
 }
 h1 {
-  color: rgba(8, 2, 2, 0.418);
+  color: rgba(192, 16, 16, 0.753);
 }
 
 h2 {
@@ -26,9 +26,7 @@ h2 {
 .column {
   float: right;
 }
-.column2 {
-  float: left;
-}
+
 .ending {
   position: sticky;
   bottom: 10px;
@@ -47,6 +45,7 @@ h2 {
   color: rgb(207, 58, 31);
 }
 .brother {
+  width: 60%;
   font-size: larger;
   font-style: italic;
   color: rgb(53, 87, 199);
@@ -55,14 +54,22 @@ h2 {
 font-size: larger;
 font-style: italic;
 color: green;
+width: 60%;
+border: 2px;
+border-color: green;
 }
 .dad {
+  width: 60%;
   font-size: larger;
   font-style: italic;
   color: rgb(156, 59, 212)
 }
 .skyy {
+  width: 60%;
   font-size: larger;
   font-style: italic;
   color: skyblue
+}
+.column2 {
+  
 }

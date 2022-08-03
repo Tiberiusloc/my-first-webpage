@@ -33,6 +33,13 @@ h2 {
   position: sticky;
   bottom: 10px;
   width: 50%
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 1rem;
+  background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .disclaimer {
   font-size: small;
@@ -40,22 +47,22 @@ h2 {
   color: rgb(207, 58, 31);
 }
 .brother {
-  font-size: large;
+  font-size: larger;
   font-style: italic;
   color: rgb(53, 87, 199);
 }
 .mom {
-font-size: large;
+font-size: larger;
 font-style: italic;
 color: green;
 }
 .dad {
-  font-size: large;
+  font-size: larger;
   font-style: italic;
   color: rgb(156, 59, 212)
 }
 .skyy {
-  font-size: large;
+  font-size: larger;
   font-style: italic;
   color: skyblue
 }

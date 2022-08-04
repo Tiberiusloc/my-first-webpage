@@ -1,13 +1,20 @@
 body {
   background-color: darkgrey;
 }
-h1 {
-  color: rgba(192, 16, 16, 0.753);
-}
 
+h1 {
+  font-style: italic;
+  text-align: center;
+}
 h2 {
   font-style: italic;
   text-align: center;
+}
+h3 {
+  font-size: 25px;
+  font-style: italic;
+  text-align: left;
+  margin-left: 250px;
 }
 
 p {
@@ -48,27 +55,42 @@ h2 {
   width: 60%;
   font-size: larger;
   font-style: italic;
-  color: rgb(53, 87, 199);
+  color: white;
+  margin: 12px;
+  border: 2px solid skyblue;
+  padding: 8px;
+  background-color: plum;
+
 }
 .mom {
 font-size: larger;
 font-style: italic;
-color: green;
+color: white;
 width: 60%;
-border: 2px;
-border-color: green;
+margin: 12px;
+border: 2px solid skyblue;
+padding: 8px;
+background-color: plum;
 }
 .dad {
   width: 60%;
   font-size: larger;
   font-style: italic;
-  color: rgb(156, 59, 212)
+  color: white;
+  margin: 12px;
+  border: 2px solid skyblue;
+  padding: 8px;
+  background-color: plum;
 }
 .skyy {
   width: 60%;
   font-size: larger;
   font-style: italic;
-  color: skyblue
+  color: white;
+  margin: 12px;
+  border: 2px solid skyblue;
+  padding: 8px;
+  background-color: plum;
 }
 .column2 {
   
